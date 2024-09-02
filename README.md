@@ -43,21 +43,8 @@ Construir el Query que permita obtener los siguientes datos:
 
 
 
-Resultado esperado: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+7. Se requiere consultar cuales son las inscripciones que tienen horario M-F9. (5Puntos)
+   
 
 ## Ejercicio HTML y CSS3 (10 Puntos)
 
