@@ -41,26 +41,11 @@ Construir el Query que permita obtener los siguientes datos:
 
 6. De la tabla PRUEBAESTUDIANTE se desea saber el nombre de las especialidades registradas y la cantidad de veces que existe en la tabla. (5 Puntos)
 
-
-SELECT
-especialidad,
-COUNT(*) AS cantidad
-FROM pruebaestudiante
-GROUP BY especialidad;
-
+   se adjunta captura mirar el archivo exercise6.png
 
 7. Se requiere consultar cuales son las inscripciones que tienen horario M-F9. (5Puntos)
 
-
-
-
-
-
-
-
-
-
-
+   se adjunta captura mirar el archivo exercise7.png
 
 ## Ejercicio HTML y CSS3 (10 Puntos)
 
