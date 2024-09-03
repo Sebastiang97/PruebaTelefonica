@@ -36,12 +36,39 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
-main {
+
+main{
     padding: 1rem;
+    display: flex;
+    justify-content: center;
+    section{
+        max-width: 700px;
+    }
+}
+
+.personal-data{
+    p{
+        margin: 0;
+    }
+    h3{
+        margin: 0;
+    }
 }
 
 .personal-data, .information, .profile {
     margin-bottom: 1.5rem;
+}
+
+
+.information{
+    display: flex;
+    justify-content: center;
+    div{
+        div{
+            display: flex;
+            justify-content: center;
+        }
+    }
 }
 
 .information .profile-photo {
